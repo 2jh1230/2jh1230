@@ -1,5 +1,7 @@
 # 2jh1230
-
+스페이스바 = 공격
+방향키 = 이동
+게임실행 후 떨어지는 운석을 공격하여 파괴하면 됨
 ```python
 import pygame
 import sys
