@@ -1,3 +1,4 @@
+<<<<<<< HEAD:shooting.py
 import pygame
 import sys
 import random
@@ -204,3 +205,6 @@ def Game1():
 
 Game()
 Game1()
+=======
+# 2jh1230
+>>>>>>> parent of e2ace99... Update README.md:README.md
