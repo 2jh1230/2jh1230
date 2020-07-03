@@ -1,6 +1,6 @@
 # 2jh1230
 
-'''python
+```python
 import pygame
 import sys
 import random
@@ -207,4 +207,4 @@ def Game1():
 
 Game()
 Game1()
-'''
+```
