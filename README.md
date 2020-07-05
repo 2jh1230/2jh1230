@@ -7,7 +7,7 @@
 
 파일들을 다운한 후 한 코드를 복사하여 idle 프로그램을 실행하여 킨 후 붙혀넣은 후 다운 받았던 파일들과 idle을 한 파일안에 넣은 후 idle를 실행하면 됨
 
-```python
+
 import pygame
 import sys
 import random
@@ -214,4 +214,4 @@ def Game1():
 
 Game()
 Game1()
-```
+
